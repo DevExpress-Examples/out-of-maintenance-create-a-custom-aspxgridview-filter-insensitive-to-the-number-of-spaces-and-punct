@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [EasySearchString.cs](./CS/WebSite/App_Code/EasySearchString.cs) (VB: [EasySearchString.vb](./VB/WebSite/App_Code/EasySearchString.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+<!-- default file list end -->
 # Create a custom ASPxGridView filter insensitive to the number of spaces and punctuation
 
 
